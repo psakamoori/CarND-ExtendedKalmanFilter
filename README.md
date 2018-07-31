@@ -35,3 +35,7 @@ Connected!!!
 # Accuracy
 - As stated RMSE value (px, py, vx and vy) should be <= [.11, .11, 0.52, 0.52]
 
+# Output
+
+- DataSet1 = [0.09, 0.08, 0.45, 0.43]
+- DataSet2 = [0.07, 0.09, 0.42, 0.49]
